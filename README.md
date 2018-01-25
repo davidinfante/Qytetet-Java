@@ -1,4 +1,4 @@
-# Qytetet-Java
+# Qytetet Java
 
 ### Autor: David Infante Casas
 ### Fecha: 27/12/2017
